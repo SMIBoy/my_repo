@@ -1,1 +1,1 @@
-"Primer fichero en el primer repositorio de <Sergio Martinez Ingelmo>"
+"Primer fichero en el primer repositorio de Sergio Martinez Ingelmo"
